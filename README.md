@@ -1,7 +1,10 @@
 ## Advent of Code 2020
 
-#### Language: 
-##### JavaScript
+#### Language: JavaScript
+
+## 09/12/2020 update
+
+Today was not bad at all. Still need to tackle the backlog.
 
 ### 08/12/2020 update
 
